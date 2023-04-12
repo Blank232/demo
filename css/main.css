@@ -39,7 +39,8 @@
   z-index: 1; }
 
 .timeline-card-primary {
-  border-left-color: #4A89DC; }
+  border-left-color: #4A89DC;
+padding-left: 0px; }
 
 .timeline-card-primary:before {
   border-color: #4A89DC; }
